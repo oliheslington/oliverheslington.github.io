@@ -6,7 +6,7 @@
       </div>
       <div>
         <p>My name is Oli Heslington and I am extremely passionate about all areas of design and I love a challenge. I enjoy exploring design solutions from pencil to digital in order to create and develop new, contemporary and original ideas and outcomes to exceed clients’ expectations. By nature, I am very competitive &ndash; both at work and in my leisure&nbsp;time.</p>
-        <p><a href="mailto:hello@jamesmitchell.info">Email me</a> to discuss your next project, or simply just say&nbsp;hello!</p>
+        <p><a href="mailto:oliheslington@gmail.com">Email me</a> to discuss your next project, or simply just say&nbsp;hello!</p>
       </div>
       <div>
         <ul>
