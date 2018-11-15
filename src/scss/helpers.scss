@@ -1,0 +1,27 @@
+// Helpers > Parameters
+
+$color-light: #fff;
+$color-pale: #f8f8f8;
+$color-medium: rgba(24, 28, 29, .3);
+$color-dark: rgb(24, 28, 29);
+$color-accent: #e20f19;
+
+// Helpers > Mixins
+
+@mixin medium {
+    @media screen and (max-width: 980px) {
+        @content;
+    }
+}
+
+@mixin image-width {
+    @media screen and (max-width: 900px) {
+        @content;
+    }
+}
+
+@mixin small {
+    @media screen and (max-width: 520px) {
+        @content;
+    }
+}

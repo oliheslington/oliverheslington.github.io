@@ -1,0 +1,210 @@
+// Base
+
+@import url("https://use.typekit.net/pcp3nro.css");
+
+* {
+    background: 0 0;
+    border: 0;
+    color: $color-dark;
+    font: 400 20px/1.4 'proxima-nova', Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: 100%;
+    transition-duration: .3s;
+    transition-property: background-color, color, fill;
+    vertical-align: baseline;
+
+    @include small {
+        font-size: 16px;
+    }
+
+    &:focus {
+        outline: 0;
+    }
+
+    .inverted & {
+        color: $color-light;
+    }
+}
+
+img {
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+}
+
+// Base > Typography
+
+h1,
+h2,
+h3 {
+    font-weight: 800;
+}
+
+h1,
+h2 {
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+
+    @include medium {
+        font-size: 2rem;
+        line-height: 1.3;
+    }
+}
+
+h2 {
+    font-size: 2rem;
+    line-height: 1.3;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+h4 {
+    color: $color-medium;  
+}
+
+h3,
+h4,
+p {
+    margin-bottom: 1rem;
+
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+sup,
+span {
+    color: inherit;
+    font: inherit;
+    line-height: inherit;
+}
+
+sup {
+    font-size: 70%;
+    vertical-align: top;
+}
+
+small {
+    color: $color-medium;
+    font-size: .7rem;
+
+    .inverted & {
+        color: $color-light;
+    }
+}
+
+a {
+    display: inline-block;
+    position: relative;
+    text-decoration: none;
+
+    &::after {
+        background: $color-accent;
+        bottom: -.2rem;
+        content: '';
+        height: 2px;
+        position: absolute;
+        right: 0;
+        transform: scale3d(0, 1, 1);
+        transform-origin: right;
+        transition: all .3s cubic-bezier(.19, 1, .22, 1);
+        width: 100%;
+    }
+
+    &:hover,
+    &.router-link-active {
+        color: $color-dark;
+
+        .inverted & {
+            color: $color-light;
+        }
+
+        &::after {
+            transform: scale3d(1, 1, 1);
+        }
+    }
+}
+
+ul {
+    list-style: none;
+}
+
+// Base > Layout
+
+main {
+    box-sizing: border-box;
+    padding: 6rem 0 4rem 0;
+}
+
+.container {
+    margin: 0 auto;
+    width: calc(100% - 4rem);
+}
+
+// Base > Schemes
+
+.inverted {
+    background: $color-dark;
+}
+
+// Base > Animation
+
+.projects .container *,
+.projects .tile,
+.project *,
+.about * {
+    animation: zoomIn .8s forwards;
+    opacity: 0;
+}
+
+@keyframes zoomIn {
+    from { opacity: 0; }
+      to { opacity: 1; }
+}
+
+@for $i from 1 through 10 {
+
+    $delay: ($i / 10) + s;
+
+    .projects .container *,
+    .about *:nth-child(#{$i}) {
+        animation-delay: $delay;
+    }
+
+    .projects .tile:nth-of-type(#{$i}) {
+        animation-delay: (($i + 2) / 10) + s;
+    }
+
+    @if $i == 1 {
+        .projects .container h1,
+        .project .container.details {
+            animation-delay: $delay;
+        }
+    }
+
+    @elseif $i == 2 {
+        .projects .container a,
+        .project img:first-of-type {
+            animation-delay: $delay;
+        }
+    }
+
+    @elseif $i == 3 {
+        .project .bg .details {
+            animation-delay: $delay;
+        }
+    }
+
+    @elseif $i >= 4 and $i <= 6 {
+        .project img:nth-of-type(#{$i - 2}) {
+            animation-delay: $delay;
+        }
+    }
+}
