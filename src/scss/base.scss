@@ -27,6 +27,10 @@
     }
 }
 
+body.inverted {
+    background: $color-dark;
+}
+
 img {
     display: inline-block;
     vertical-align: bottom;
@@ -66,7 +70,7 @@ h3 {
 }
 
 h4 {
-    color: $color-medium;  
+    color: $color-medium;
 }
 
 h3,
@@ -146,12 +150,6 @@ main {
 .container {
     margin: 0 auto;
     width: calc(100% - 4rem);
-}
-
-// Base > Schemes
-
-.inverted {
-    background: $color-dark;
 }
 
 // Base > Animation
