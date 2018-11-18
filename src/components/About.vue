@@ -5,7 +5,7 @@
         <h1>OH, hello there&hellip;</h1>
       </div>
       <div>
-        <p>I’m Oli Heslington a graphic designer and creative thinker with a passion for all things creative. I never miss a deadline I love a design challenge. My strengths lie in branding, corporate stationery, editorial design, website design, print and digital collateral and iconography and I enjoy exploring design solutions in order to develop new, contemporary, original and unique ideas to exceed clients’&nbsp;expectations.</p>
+        <p>I’m Oli Heslington, graphic designer and creative thinker with a passion for all things creative. Never miss a deadline and I love a design challenge. Core strengths lie within branding, corporate stationary, editorial and website design, print and digital collateral, and iconography. I relish opportunities to explore design solutions, in order to develop new, contemporary, original and unique ideas and thrive on exceeding clients’ expectations.</p>
         <p><a href="mailto:oliheslington@gmail.com">Email me</a> to discuss your next project, or simply just say&nbsp;hello! 👋</p>
       </div>
       <div>
