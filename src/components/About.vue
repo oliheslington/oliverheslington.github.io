@@ -5,7 +5,7 @@
         <h1>OH, hello there&hellip;</h1>
       </div>
       <div>
-        <p>I’m Oli Heslington &mdash; graphic designer and creative thinker, striving for simplicity and clarity. I&nbsp;never miss a deadline and love a design challenge. I strive to deliver on time, on budget and to the expectation of my clients’ and their customers.</p>
+        <p>I’m Oli Heslington &mdash; graphic designer and creative thinker, striving for simplicity and creative solutions. I aim to deliver on time, on budget and to the expectation of my clients and their customers.</p>
         <p><a href="mailto:oliheslington@gmail.com">Email me</a> to discuss your next project, or simply just say&nbsp;hello! 👋</p>
       </div>
       <div>
