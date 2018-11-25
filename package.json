@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
-    "build": "node build/build.js"
+    "cache": "cd docs && echo 'CACHE MANIFEST\\n' > .appcache; find . -type f | sed 's#^\\./##' | grep -vi -e '.appcache' -e 'CNAME' -e 'index.html' -e '.DS_Store' >> .appcache; >> .appcache && cat .appcache",
+    "build": "node build/build.js && npm run cache"
   },
   "dependencies": {
     "vue": "^2.5.2",
