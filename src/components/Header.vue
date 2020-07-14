@@ -9,8 +9,8 @@
       </g>
     </router-link>
     <nav>
-      <router-link tag="a" class="caps" to="/projects">Projects</router-link>
-      <router-link tag="a" class="caps" to="/about">About</router-link>
+      <router-link tag="a" to="/projects">Projects</router-link>
+      <router-link tag="a" to="/about">About</router-link>
     </nav>
   </header>
 </template>
@@ -28,7 +28,7 @@
           height: 3.5rem;
           transform: translateX(-.1rem);
           transition: transform 1s cubic-bezier(.19, 1, .22, 1);
-          width: auto;
+          width: 3.5rem;
 
           &:hover {
               transform: translateX(-.1rem) scale(1.075);

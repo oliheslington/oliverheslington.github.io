@@ -10,7 +10,7 @@
         <div>
           <h4>Scope</h4>
           <ul>
-            <li v-for="scope in project.scope.length" class="caps" v-html="project.scope[scope - 1]"></li>
+            <li v-for="scope in project.scope.length" v-html="project.scope[scope - 1]"></li>
           </ul>
         </div>
         <div>
@@ -28,7 +28,7 @@
         <img v-for="item in 3" :src="'/static/img/' + project.id + '-' + (item + 1) + '.png'" :alt="project.title">
       </div>
       <router-link tag="div" class="next" :to="'/projects/' + project.next.id" v-for="project in currentProject" :data="project" :key="project.next.id">
-        <p class="caps">Next</p>
+        <p>Next</p>
         <h2>{{ project.next.title }}</h2>
       </router-link>
     </div>
