@@ -8,12 +8,12 @@
     "color": "#1b99a7"
   },
   {
-    "id": "thirteen",
-    "title": "Osborne Pike",
-    "scope": ["Editorial Design"],
-    "overview": "The brief for this project was to create a book to celebrate Osborne Pike's 13<sup>th</sup> birthday. The book would include 13 launched projects and 13 concepts.",
-    "commentary": "The concept that I chose for the book combines both their existing brand and their previous logo, creating lines and directing the reader through a story of their work.",
-    "color": "#f89623"
+    "id": "ohdesign",
+    "title": "OH Design",
+    "scope": ["Branding", "Web design", "UI/UX"],
+    "overview": "The brief for this project was to create an online brand guideline resource for OH Design.",
+    "commentary": "Lorem ipsum.",
+    "color": "#f6d42f"
   },
   {
     "id": "beau",
@@ -40,12 +40,12 @@
     "color": "#f79f27"
   },
   {
-    "id": "purplefox",
-    "title": "Purple Fox",
-    "scope": ["Website Design"],
-    "overview": "The brief for this project was to create a series of landing pages for PurpleFox to promote their website design, social media and AdWords services.",
-    "commentary": "I decided to keep the landing pages very visual to allow visitors to engage with the products and see what services PurpleFox offer. The landing pages recieved extremely positive feedback and results.",
-    "color": "#3c1875"
+    "id": "cwfranklin",
+    "title": "CWFranklin",
+    "scope": ["Branding", "Web design", "UI/UX"],
+    "overview": "The brief for this project was to create a new brand identity and website design for Chirs Franklin, a freelance web developer.",
+    "commentary": "Lorem ipsum",
+    "color": "#2552f3"
   },
   {
     "id": "apex",
