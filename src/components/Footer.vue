@@ -1,7 +1,7 @@
 <template>
   <footer>
     <small>&copy; <span>Copyright</span> {{ new Date().getFullYear() }} Oli Heslington</small>
-    <a href="mailto:oliheslington@gmail.com">oliheslington@gmail.com</a>
+    <a href="mailto:oliheslington@gmail.com">Drop me a line</a>
   </footer>
 </template>
 
