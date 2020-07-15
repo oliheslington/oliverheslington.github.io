@@ -14,6 +14,7 @@
           <li><h3>UI/UX</h3></li>
           <li><h3>Branding</h3></li>
           <li><h3>Digital design</h3></li>
+          <li><h3>Digital &amp; social advertising</h3></li>
           <li><h3>Editorial design</h3></li>
         </ul>
       </div>
