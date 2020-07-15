@@ -5,17 +5,16 @@
         <h1>OH, hello there&hellip;</h1>
       </div>
       <div>
-        <p>I’m Oli Heslington &mdash; graphic designer and creative thinker, striving for simplicity and creative solutions. I aim to deliver on time, on budget and to the expectation of my clients and their customers.</p>
-        <p><a href="mailto:oliheslington@gmail.com">Email me</a> to discuss your next project, or simply just say&nbsp;hello! 👋</p>
+        <p>I’m Oli Heslington 👋 &mdash; graphic designer and creative thinker, striving for simplicity and creative solutions. I aim to deliver on time, on budget and to the expectation of my clients and their customers.</p>
+        <p><a href="mailto:oliheslington@gmail.com">Drop me a line</a> to discuss your next project, or simply just say&nbsp;hello!</p>
       </div>
       <div>
         <ul>
+          <li><h3>Responsive web design</h3></li>
+          <li><h3>UI/UX</h3></li>
           <li><h3>Branding</h3></li>
-          <li><h3>Corporate Stationery</h3></li>
-          <li><h3>Editorial Design</h3></li>
-          <li><h3>Website Design</h3></li>
-          <li><h3>Print &amp; Digital</h3></li>
-          <li><h3>Iconography</h3></li>
+          <li><h3>Digital design</h3></li>
+          <li><h3>Editorial design</h3></li>
         </ul>
       </div>
     </div>
