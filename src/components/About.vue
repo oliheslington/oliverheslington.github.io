@@ -6,7 +6,7 @@
       </div>
       <div>
         <p>I’m Oli Heslington 👋 &mdash; graphic designer and creative thinker, striving for simplicity and creative solutions. I aim to deliver on time, on budget and to the expectation of my clients and their customers.</p>
-        <p><a href="mailto:oliheslington@gmail.com">Drop me a line</a> to discuss your next project, or simply just say hello!</p>
+        <p><a href="mailto:oliheslington@gmail.com">Let's talk pixels!</a></p>
       </div>
       <div>
         <ul>
