@@ -1,43 +1,19 @@
 [
   {
-    "id": "fernhay",
-    "title": "Fernhay",
-    "scope": ["Website Design"],
-    "overview": "The brief for this project was to create a new website design for Fernhay, an independent project management and product delivery company.",
-    "commentary": "Fernhay wanted their website to showcase their services and thought process involved with every project they undertake whilst evoking a friendly, high quality service.",
-    "color": "#1b99a7"
+    "id": "apex",
+    "title": "Apex Air Conditioning",
+    "scope": ["Branding", "Web design", "UI/UX"],
+    "overview": "The brief for this project was to create a new brand identity and website design for Apex Air Conditioning. Air conditioning experts with over 60 years experience within the industry.",
+    "commentary": "The logo combines the feel of water and air which represent the services which they provide. This creates an abstract visual, forming key elements of Apex's core values.",
+    "color": "#0468fc"
   },
   {
-    "id": "ohdesign",
-    "title": "OH Design",
-    "scope": ["Branding", "Web design", "UI/UX"],
+    "id": "woodside",
+    "title": "Woodside Quarry",
+    "scope": ["Editorial design", "Print Collateral"],
     "overview": "The brief for this project was to create an online brand guideline resource for OH Design.",
     "commentary": "Lorem ipsum.",
-    "color": "#f6d42f"
-  },
-  {
-    "id": "beau",
-    "title": "BEAU",
-    "scope": ["Branding", "Print Collateral"],
-    "overview": "The brief for this project was to create a brand for a new luxury menswear label. The clothing is directed for the modern gentleman, who appreciates the good quality of life and notices the little details. The brief was to focus on innovation and engineering achievement that Britain has accomplished.",
-    "commentary": "The logo has been created by reflecting Britain as a whole by the use of a circle and triangular shapes represent engineering as these are commonly used when constructing structures.",
-    "color": "#239fb5"
-  },
-  {
-    "id": "liv",
-    "title": "LIV",
-    "scope": ["Branding", "Print Collateral", "App Design"],
-    "overview": "The brief for this project was to create a campaign that could be used within todays society. I aimed to educated and help young adults between the age of 18 - 25 about the dangers of binge drinking and the effect on their health. This is one of the biggest problems that affect young adults in today’s modern society.",
-    "commentary": "The LIV logo was created by using the idea of veins and arteries to form a bespoke typeface and logo that referenced the campaigns intentions.",
-    "color": "#ffcccc"
-  },
-  {
-    "id": "workshoptraining",
-    "title": "Workshop Training",
-    "scope": ["Web design", "UI/UX"],
-    "overview": "The brief for this project was to create a series of landing pages to promote a wide range of new workshop training courses.",
-    "commentary": "The look and feel of the website has been continued throughout the landing pages. A form was added to the main banner with a short description of the course to allow viewers to access key information instantly and sign up.",
-    "color": "#f79f27"
+    "color": "#ec9928"
   },
   {
     "id": "cwfranklin",
@@ -48,11 +24,35 @@
     "color": "#2552f3"
   },
   {
-    "id": "apex",
-    "title": "Apex Air Conditioning",
+    "id": "beau",
+    "title": "BEAU",
+    "scope": ["Branding", "Print Collateral"],
+    "overview": "The brief for this project was to create a brand for a new luxury menswear label. The clothing is directed for the modern gentleman, who appreciates the good quality of life and notices the little details. The brief was to focus on innovation and engineering achievement that Britain has accomplished.",
+    "commentary": "The logo has been created by reflecting Britain as a whole by the use of a circle and triangular shapes represent engineering as these are commonly used when constructing structures.",
+    "color": "#239fb5"
+  },
+  {
+    "id": "ohdesign",
+    "title": "OH Design",
     "scope": ["Branding", "Web design", "UI/UX"],
-    "overview": "The brief for this project was to create a new brand identity and website design for Apex Air Conditioning. Air conditioning experts with over 60 years experience within the industry.",
-    "commentary": "The logo combines the feel of water and air which represent the services which they provide. This creates an abstract visual, forming key elements of Apex's core values.",
-    "color": "#0468fc"
+    "overview": "The brief for this project was to create a brand for a new luxury menswear label. The clothing is directed for the modern gentleman, who appreciates the good quality of life and notices the little details. The brief was to focus on innovation and engineering achievement that Britain has accomplished.",
+    "commentary": "The logo has been created by reflecting Britain as a whole by the use of a circle and triangular shapes represent engineering as these are commonly used when constructing structures.",
+    "color": "#f6d42f"
+  },
+  {
+    "id": "workshoptraining",
+    "title": "Workshop Training",
+    "scope": ["Web design", "UI/UX"],
+    "overview": "The brief for this project was to create a series of landing pages to promote a wide range of new workshop training courses.",
+    "commentary": "The look and feel of the website has been continued throughout the landing pages. A form was added to the main banner with a short description of the course to allow viewers to access key information instantly and sign up.",
+    "color": "#f79f27"
+  },
+  {
+    "id": "liv",
+    "title": "LIV",
+    "scope": ["Branding", "Print Collateral", "App Design"],
+    "overview": "The brief for this project was to create a campaign that could be used within todays society. I aimed to educated and help young adults between the age of 18 - 25 about the dangers of binge drinking and the effect on their health. This is one of the biggest problems that affect young adults in today’s modern society.",
+    "commentary": "The LIV logo was created by using the idea of veins and arteries to form a bespoke typeface and logo that referenced the campaigns intentions.",
+    "color": "#ffcccc"
   }
 ]
