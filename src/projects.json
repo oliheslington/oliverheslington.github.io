@@ -2,7 +2,7 @@
   {
     "id": "apex",
     "title": "Apex Air Conditioning",
-    "scope": ["Branding", "Web design", "UI/UX"],
+    "scope": ["Visual identity", "Web design", "UI/UX"],
     "overview": "The brief for this project was to create a new visual identity system for Apex. Air conditioning specialists with over 60 years experience within the industry. The new visual identity consisted of a range of assets, including a bespoke icon library, website design and identity design.",
     "commentary": "Alongside the new website, a UI library was created detailing all key components of the site to aid collaboration between the design and development team. The library included icons, typography, colour, UI elements  and much more.",
     "color": "#0468fc"
@@ -18,7 +18,7 @@
   {
     "id": "cwfranklin",
     "title": "CWFranklin",
-    "scope": ["Branding", "Web design", "UI/UX"],
+    "scope": ["Visual identity", "Web design", "UI/UX"],
     "overview": "The brief for this project was to create a new visual identity system for CWFranklin, a freelance web developer from Cornwall. This consisted of a new identity design, web design and UI style guide.",
     "commentary": "The UI library contains all of the vital aspects supporting the CWFranklin brand. These range from the identity design through to the brand application to create consistency and harmony throughout all assets for both print and digital use cases.",
     "color": "#2552f3"
@@ -26,7 +26,7 @@
   {
     "id": "beau",
     "title": "BEAU",
-    "scope": ["Branding", "Print Collateral"],
+    "scope": ["Visual identity", "Print Collateral"],
     "overview": "The brief for this project was to create a brand for a new luxury menswear label. The clothing is directed for the modern gentleman, who appreciates the good quality of life and notices the little details. The brief was to focus on innovation and engineering achievement that Britain has accomplished.",
     "commentary": "The logo has been created by reflecting Britain as a whole by the use of a circle and triangular shapes represent engineering as these are commonly used when constructing structures.",
     "color": "#239fb5"
@@ -40,9 +40,17 @@
     "color": "#f79f27"
   },
   {
+    "id": "studentcharter",
+    "title": "Student Charter",
+    "scope": ["Visual identity", "Editorial design"],
+    "overview": "The brief for this project was to create a new brochure to promote the Student Charter across several college and university campuses",
+    "commentary": "A new visual identity was created alongside the new brochure to make it more recognisable.",
+    "color": "#5f27cd"
+  },
+  {
     "id": "ohdesign",
     "title": "OH Design",
-    "scope": ["Branding", "Web design", "UI/UX"],
+    "scope": ["Visual identity", "Web design", "UI/UX"],
     "overview": "The brief for this project was to create a new visual identity and online brand guidelines for OH Design. This central platform is used to aid brand consistency for all aspects of both print and digital use cases.",
     "commentary": "The UI library details all key areas evolving around the OH Design brand. These include, the logo, colour palette, font, images, tone of voice, UI elements, brand application and much more.",
     "color": "#f6d42f"
@@ -50,7 +58,7 @@
   {
     "id": "liv",
     "title": "LIV",
-    "scope": ["Branding", "Print Collateral", "App Design"],
+    "scope": ["Visual identity", "Print Collateral", "App Design"],
     "overview": "The brief for this project was to create a campaign that could be used within todays society. I aimed to educated and help young adults between the age of 18 - 25 about the dangers of binge drinking and the effect on their health. This is one of the biggest problems that affect young adults in today’s modern society.",
     "commentary": "The LIV logo was created by using the idea of veins and arteries to form a bespoke typeface and logo that referenced the campaigns intentions.",
     "color": "#ffcccc"
