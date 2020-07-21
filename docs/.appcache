@@ -4,8 +4,8 @@ favicon.ico
 site.webmanifest
 static/css/app.b0985d91e891166ce4081e96e4295ab7.css
 static/js/manifest.37a2ecbb1d1b7e6c9ada.js
-static/js/app.391aa1326374aa45509c.js
 static/js/vendor.1748317793fd05195ff8.js
+static/js/app.fa757274fff1c7a03b77.js
 static/img/beau-3.png
 static/img/favicon-16x16.png
 static/img/liv-2.png
@@ -28,6 +28,7 @@ static/img/beau-4.png
 static/img/cwfranklin-4.png
 static/img/woodside-4.png
 static/img/apple-touch-icon.png
+static/img/studentcharter-ft.png
 static/img/cwfranklin-ft.png
 static/img/mstile-70x70.png
 static/img/ohdesign-1.png
@@ -45,11 +46,15 @@ static/img/workshoptraining-ft.png
 static/img/mstile-310x150.png
 static/img/android-chrome-512x512.png
 static/img/workshoptraining-1.png
+static/img/studentcharter-2.png
+static/img/studentcharter-3.png
 static/img/workshoptraining-2.png
 static/img/woodside-ft.png
 static/img/mstile-150x150.png
+static/img/studentcharter-1.png
 static/img/apex-ft.png
 static/img/workshoptraining-3.png
+static/img/studentcharter-4.png
 static/img/browserconfig.xml
 static/img/workshoptraining-4.png
 static/img/favicon-32x32.png

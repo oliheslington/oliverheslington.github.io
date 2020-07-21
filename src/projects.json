@@ -40,6 +40,14 @@
     "color": "#f79f27"
   },
   {
+    "id": "studentcharter",
+    "title": "Student Charter",
+    "scope": ["Visual identity", "Editorial design"],
+    "overview": "The brief for this project was to create a new visual identity and document for Student Charter. The document was designed to outline key responsibilities, expectations and present opportunities to students throughout their time at college.",
+    "commentary": "The new identity design combines the initials SC from Student Charter within a speech box to embody the perception of communication. A visual language was developed throughout the document, utilising a bright, bold colour palette, evoking a fun and playful design aesthetic with the further addition of colour application to define chapters and key information.",
+    "color": "#5f27cd"
+  },
+  {
     "id": "ohdesign",
     "title": "OH Design",
     "scope": ["Visual identity", "Web design", "UI/UX"],
