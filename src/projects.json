@@ -26,7 +26,7 @@
   {
     "id": "beau",
     "title": "BEAU",
-    "scope": ["Visual identity", "Print Collateral"],
+    "scope": ["Visual identity", "Print collateral"],
     "overview": "The brief for this project was to create a brand for a new luxury menswear label. The clothing is directed for the modern gentleman, who appreciates the good quality of life and notices the little details. The brief was to focus on innovation and engineering achievement that Britain has accomplished.",
     "commentary": "The logo has been created by reflecting Britain as a whole by the use of a circle and triangular shapes represent engineering as these are commonly used when constructing structures.",
     "color": "#239fb5"
@@ -56,9 +56,17 @@
     "color": "#f9ca24"
   },
   {
+    "id": "personalbranding",
+    "title": "Personal Branding",
+    "scope": ["Visual identity", "Print design"],
+    "overview": "The brief for this project was to create a new visual identity.",
+    "commentary": "Commentary.",
+    "color": "#5f6c6f"
+  },
+  {
     "id": "liv",
     "title": "LIV",
-    "scope": ["Visual identity", "Print Collateral", "App Design"],
+    "scope": ["Visual identity", "Print collateral", "App design"],
     "overview": "The brief for this project was to create a campaign that could be used within todays society. I aimed to educated and help young adults between the age of 18 - 25 about the dangers of binge drinking and the effect on their health. This is one of the biggest problems that affect young adults in today’s modern society.",
     "commentary": "The LIV logo was created by using the idea of veins and arteries to form a bespoke typeface and logo that referenced the campaigns intentions.",
     "color": "#ffcccc"
