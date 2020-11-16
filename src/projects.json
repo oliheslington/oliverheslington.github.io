@@ -35,8 +35,8 @@
     "id": "workshoptraining",
     "title": "Workshop Training",
     "scope": ["Web design", "UI/UX"],
-    "overview": "The brief for this project was to create a new web design to promote a wide range of workshop training courses.",
-    "commentary": "The look and feel of the website has been continued throughout the landing pages. A form was added to the main banner with a short description of the course to allow viewers to access key information instantly and sign up.",
+    "overview": "The brief for this project was to create a new web design to promote a series of workshop training courses. The aim was to promote the three core courses within an easy to navigate web page and allow users to sign up instantly, hassle free. The design of the page incorporates white space and large image sections with overlapping orange circular elements to draw visual interest and create balance against the content throughout the site.",
+    "commentary": "A newsletter sign up was also incorporated to allow users to stay up to date with the latest news and workshop courses available to them. The clean and minimalistic design style was further continued throughout the service offering pages, with an ‘enquire today’ call to action within the header section to allow site visitors to book their place on the course. Key information regarding each individual course was also highlighted within the header with additional information available below and via a ‘learn more’ button.",
     "color": "#f79f27"
   },
   {
@@ -59,7 +59,7 @@
     "id": "personalbranding",
     "title": "Personal Branding",
     "scope": ["Visual identity", "Brand development", "Print design"],
-    "overview": "The brief for this project was to create a new personal identity system. The aim of the update was to create a simplistic, consistent, recognisable and versatile identity that could be used across both print and digital use cases. Included within the visual identity system a refreshed logo and colour palette was created with supporting assets including: Corporate stationery, posters, website design and an online brand portal and more.",
+    "overview": "The brief for this project was to create a new personal identity system. The aim of the update was to create a simplistic, consistent, recognisable and versatile identity that could be used across both print and digital use cases. Included within the visual identity system a refreshed logo and colour palette was created with supporting assets including: Corporate stationery, posters, website design, online brand portal and more.",
     "commentary": "The new OH design aesthetic consists of a simplistic colour palette harmonised with a typographic and photographic design style. This concept allows assets to showcase the intricate details.",
     "color": "#5f6c6f"
   }
